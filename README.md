@@ -4,7 +4,7 @@
 
 ## 🚀 Tecnologías
 - C#
-- .NET 8
+- .NET 10
 - ASP.NET Core
 - Entity Framework
 - SQL Server
